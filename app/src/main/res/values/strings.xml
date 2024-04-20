@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name" translatable="false">DoxFetch</string>
+    <string name="login" translatable="false">login</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="nic_number" translatable="false">NIC number</string>
+    <string name="phone_number" translatable="false">Phone Number</string>
+    <string name="user_profile" translatable="false">User Profile</string>
+    <string name="info" translatable="false">Name:Samson gomes NIC:198634502877 Phone number:0876534216</string>
+    <string name="progress" translatable="false">Progress of Birth certificate request</string>
+    <string name="register" translatable="false">Register</string>
+    <string name="confirm" translatable="false">confirm</string>
+    <string name="doxfetch" translatable="false">DoxFetch</string>
+    <string name="home" translatable="false">Home</string>
+    <string name="oliver_kviene" translatable="false">Oliver Kviene</string>
+    <string name="id100" translatable="false">199029485540</string>
+    <string name="birth_certificate" translatable="false">Birth certificate</string>
+    <string name="national_identity_card" translatable="false">National Identity Card</string>
+    <string name="passport" translatable="false">Passport</string>
+    <string name="progress2" translatable="false">Progress of Birth Certificate Request</string>
+    <string name="login3" translatable="false">Login</string>
+    <string name="discount" translatable="false">Get 10% discount</string>
+    <string name="valid" translatable="false">valid until 20th March 2024</string>
+    <string name="progressy66" translatable="false">Progress of Birth Certificate Request</string>
+    <string name="samson_gomes" translatable="false">Samson Gomes</string>
+    <string name="id44" translatable="false">198634502877</string>
+    <string name="welcome_to_the" translatable="false">welcome_to_the</string>
+    <string name="doxfetch3" translatable="false">doxfetch</string>
+    <string name="para" translatable="false">Our app offers easy online applications for NIC birth certificates and passports with simple navigation, real-time updates, and smooth payment processing.</string>
+    <string name="register22" translatable="false">Register</string>
+    <string name="login4" translatable="false">Login</string>
+    <string name="_40" translatable="false">40%</string>
+    <string name="id55" translatable="false">199029485540</string>
+    <string name="name44" translatable="false">Oliver Kviene</string>
+    <string name="notifications" translatable="false">Notifications</string>
+
+
+</resources>
+
